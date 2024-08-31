@@ -35,3 +35,21 @@ In `problem3.java` write a program to output the following:
 =   v   =
 =========
 ```
+
+
+Coding is fun! 
+
+Coding is fun! 
+
+Coding is fun!
+
+messi is the best soccer player
+
+
+=========
+
+= 0   0 =     Java is Awesome!
+=   v   =
+
+=========
+
